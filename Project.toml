@@ -3,6 +3,9 @@ uuid = "7bab0ab0-f1e2-11e8-3b10-e7e6e4637b33"
 authors = ["malaf1 <44081590+malaf1@users.noreply.github.com>"]
 version = "0.1.0"
 
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
